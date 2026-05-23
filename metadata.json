@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Stadium Crowd Platform",
+  "description": "Real-time AI-powered crowd command and incident management application for cricket stadiums.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
